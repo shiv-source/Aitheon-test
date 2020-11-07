@@ -18,3 +18,10 @@ Given an array:
 2. Arrange the sequence of "1"s and "0"s in ascending order in a new array while alternating the "1"s and "0"s.
 
 ````
+
+
+
+### Output
+
+
+![alt text](https://raw.githubusercontent.com/shiv-source/Aitheon-test/master/screenshot/Screenshot%20from%202020-11-07%2021-48-54.png)
